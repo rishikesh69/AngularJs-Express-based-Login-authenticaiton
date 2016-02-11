@@ -1,4 +1,2 @@
-token-based-auth-backend
-========================
-
-Token Based Authentication Backend Project Written in NodeJS
+AngularJs-Express-based-Login-authenticaiton
+This application is intended to describe a sample login and authenticaiton example using angularjs and express framework
